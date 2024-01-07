@@ -13,4 +13,5 @@ This is a simple chat program written in Java for communication between multiple
 1. Clone the repository:
 
    ```bash
-  [ git clone https://github.com/your-username/simple-chat-program.git](https://github.com/FurkanSubay23/ChatProgram.git)https://github.com/FurkanSubay23/ChatProgram.git
+   git clone https://github.com/FurkanSubay23/ChatProgram.git
+
